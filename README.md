@@ -1,7 +1,7 @@
 # ChatAppP2P
 Computer Network Project  - Chat Application Using P2P Model
 
-All Function:
+# All Function:
 1. Sign Up/ Sign In (Client - Server)
 2. Add Friend (Client - Server)
 3. Chat (P2P)
@@ -30,7 +30,7 @@ Peers can find each other by the help of server but make a connection to chat wi
 going through server
 
 
-Overview:
+# Overview:
 
 
 My Sign In Interface:
